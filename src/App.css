@@ -1,0 +1,10 @@
+.App {
+    font-family: Arial, sans-serif;
+}
+
+.content {
+    display: flex;
+    height: calc(100vh - 100px);
+}
+
+/* Adjust width in CodeEditor and GoTutorial components if needed */

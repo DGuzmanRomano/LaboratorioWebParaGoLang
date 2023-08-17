@@ -1,0 +1,6 @@
+.go-tutorial {
+    padding: 15px;
+    width: 50vw; /* 50% of the viewport width */
+    overflow: auto; /* if the content is too long, it will scroll */
+    height: calc(100vh - 100px);
+}

@@ -1,0 +1,15 @@
+.output-panel {
+    background-color: #f5f5f5;
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    margin-top: 20px;
+    width: 100%;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.output-panel h3 {
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
