@@ -17,16 +17,23 @@ npm start
 # Usage
 
 Students can run code in the online compiler
+
 Students can read lectures and access code snippet examples
+
 Students can answer tests and quizzes
+
 Teachers can assign or write new lectures and tests
+
 
 
 # Features
 
 Online compiler for running code
+
 Testing module for student assessments
+
 Lecture system for delivering educational content
+
 Example code snippets for reference
 
 
@@ -34,6 +41,7 @@ Example code snippets for reference
 This project follows the MVC (Model-View-Controller) architectural pattern:
 
 src/: Contains the Node.js server
+
 src/components/: Contains React components (Views)
 
 # Dependencies
